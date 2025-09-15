@@ -24,6 +24,9 @@ const EPISODES = [
   { id:"ep002", title:"Episode002 Finding Yourself Among Cultures (English))", date:"2025-08-01", duration:"35 min",
     description:"与来自白俄罗斯的 Kate 谈如何在硅谷求职，以及如何在不同的环境中寻找真实的自己。",
     audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode002-finding-yourself-among-cultures-english/id1831182815?i=1000720682743", tags:["English","湾区求职","文化差异"] },
+  { id:"ep001", title:"Episode001 From Seoul to Silicon Valley: My Leap of Faith (Chinese))", date:"2025-07-10", duration:"30 min",
+    description:"从韩国大厂裸辞赴美的追梦中国人，我都经历了什么？",
+    audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode001-from-seoul-to-silicon-valley-my-leap-of/id1831182815?i=1000720682663", tags:["Chinese","他乡与故乡","文化差异"] },
 ];
 
 function classNames(...arr) { return arr.filter(Boolean).join(" "); }
