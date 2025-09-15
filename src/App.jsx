@@ -138,8 +138,8 @@ export default function PodcastSite() {
           </div>
           <aside className="md:col-span-2">
             <div className="p-5 rounded-2xl border border-neutral-200 dark:border-neutral-800 bg-white/60 dark:bg-neutral-900/60 backdrop-blur">
-              <h3 className="font-semibold">邮件订阅（示例）</h3>
-              <p className="text-sm text-neutral-600 dark:text-neutral-300 mt-1">集成 Mailchimp/ConvertKit 等服务前的占位表单。</p>
+              <h3 className="font-semibold">邮件订阅</h3>
+              <p className="text-sm text-neutral-600 dark:text-neutral-300 mt-1"> 每周一个新故事</p>
               <form className="mt-3 flex gap-2">
                 <input type="email" placeholder="你的邮箱" className="flex-1 px-3 py-2 rounded-xl border border-neutral-300 dark:border-neutral-700 bg-transparent outline-none"/>
                 <button type="button" className="px-3 py-2 rounded-xl bg-black text-white dark:bg-white dark:text-black">订阅</button>
