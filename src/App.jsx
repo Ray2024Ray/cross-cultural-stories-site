@@ -21,9 +21,9 @@ const EPISODES = [
   { id:"ep007", title:'Episode 007｜The "Me" That Bloomed in a Foreign Land (Korean, Part 1)', date:"2025-09-05", duration:"36 min",
     description:"与 Ara 的对谈（上）：如何定义“故乡/他乡”，以及初到美国后的孤独与文化差异。",
     audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode-007-the-me-that-bloomed-in-a-foreign/id1831182815?i=1000725190525", tags:["Korean","跨文化","留学"] },
-  { id:"ep004", title:"Episode 004｜From Emergency Rooms to Classrooms: Suki’s Cross-Cultural Life (Chinese, Part 2)", date:"2025-08-16", duration:"25 min",
-    description:"与来自台湾的 Suki 谈在美国的日常文化差异：饮食、时间观、婚育观与课堂文化等（下集）。",
-    audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode-004-from-emergency-rooms-to-classrooms-sukis/id1831182815?i=1000722152018", tags:["Chinese","生活","文化差异"] },
+  { id:"ep002", title:"Episode002 Finding Yourself Among Cultures (English))", date:"2025-08-01", duration:"35 min",
+    description:"与来自白俄罗斯的 Kate 谈在美国的求职，寻找自己。",
+    audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode002-finding-yourself-among-cultures-english/id1831182815?i=1000720682743", tags:["English","湾区求职","文化差异"] },
 ];
 
 function classNames(...arr) { return arr.filter(Boolean).join(" "); }
