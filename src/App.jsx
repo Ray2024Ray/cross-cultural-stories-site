@@ -137,8 +137,9 @@ export default function PodcastSite() {
           <div className="md:col-span-3">
             <h2 className="text-2xl md:text-3xl font-bold">关于节目</h2>
             <p className="mt-3 leading-7 text-neutral-700 dark:text-neutral-200"><strong>“他乡与故乡（Cross-cultural Stories）”</strong> 是一个跨文化故事播客。主持人会与来自不同背景的人聊天：谈迁徙、学习、工作与家庭；聊那些我们从家乡带走的东西，以及在他乡慢慢拥有的东西。</p>
-            <p className="mt-3 leading-7 text-neutral-700 dark:text-neutral-200">节目围绕 <em>真实、好奇、连结</em> 三个关键词，更新频率为<span className="px-2 py-0.5 rounded-md border mx-1 text-sm">周更</span>。你也可以在下方订阅邮件，获取新节目提醒与幕后花絮。</p>
-          </div>
+            <p className="mt-3 leading-7 text-neutral-700 dark:text-neutral-200">节目围绕 <em>真实、好奇、连结</em> 三个关键词，更新频率为<span className="px-2 py-0.5 rounded-md border mx-1 text-sm">周更</span>。你也可以在不同平台订阅播客，获取新节目提醒与幕后花絮。</p>
+          	{/*
+</div>
           <aside className="md:col-span-2">
             <div className="p-5 rounded-2xl border border-neutral-200 dark:border-neutral-800 bg-white/60 dark:bg-neutral-900/60 backdrop-blur">
               <h3 className="font-semibold">邮件订阅</h3>
@@ -152,6 +153,7 @@ export default function PodcastSite() {
           </aside>
         </div>
       </section>
+*/}
 
       <section id="contact" className="border-t border-neutral-200 dark:border-neutral-800">
         <div className="max-w-6xl mx-auto px-4 py-14 md:py-18">
