@@ -22,7 +22,7 @@ const EPISODES = [
     description:"与 Ara 的对谈（上）：如何定义“故乡/他乡”，以及初到美国后的孤独与文化差异。",
     audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode-007-the-me-that-bloomed-in-a-foreign/id1831182815?i=1000725190525", tags:["Korean","跨文化","留学"] },
   { id:"ep002", title:"Episode002 Finding Yourself Among Cultures (English))", date:"2025-08-01", duration:"35 min",
-    description:"与来自白俄罗斯的 Kate 谈在美国的求职，寻找自己。",
+    description:"与来自白俄罗斯的 Kate 谈如何在硅谷求职，以及如何在不同的环境中寻找真实的自己。",
     audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode002-finding-yourself-among-cultures-english/id1831182815?i=1000720682743", tags:["English","湾区求职","文化差异"] },
 ];
 
