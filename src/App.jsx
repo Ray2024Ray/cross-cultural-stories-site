@@ -15,12 +15,12 @@ const SOCIALS = [
 ];
 
 const EPISODES = [
-  { id:"ep008", title:'Episode 008｜The "Me" That Bloomed in a Foreign Land (Korean, Part 2)', date:"2025-09-12", duration:"37 min",
-    description:"与在斯坦福的朋友 Ara 的对谈（下）：从特权的反思、个体与群体的张力，到把失败视为成长的一部分。",
-    audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode-008-the-me-that-bloomed-in-a-foreign/id1831182815?i=1000726560607", tags:["Korean","跨文化","身份"] },
-  { id:"ep007", title:'Episode 007｜The "Me" That Bloomed in a Foreign Land (Korean, Part 1)', date:"2025-09-05", duration:"36 min",
-    description:"与 Ara 的对谈（上）：如何定义“故乡/他乡”，以及初到美国后的孤独与文化差异。",
-    audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode-007-the-me-that-bloomed-in-a-foreign/id1831182815?i=1000725190525", tags:["Korean","跨文化","留学"] },
+  { id:"ep016", title:'Episode 016｜寻我之旅：一个中国女孩的全球漂流与扎根', date:"2025-10-31", duration:"44 min",
+    description:"在本期节目中，播客主持人Ray, 也就是我，首次成为受访者。我深入分享了为何在异国他乡反而更强烈地体认到自己的中国根脉，以及现在选择投身播客、记录他人故事的内在驱动",
+    audioUrl:"", externalLink:"https://open.spotify.com/episode/3TWgDOmmiFgUph3kghStfy?si=J3GdwXyeSMenjJVW8q_RIQ", tags:["播客","跨文化","身份"] },
+  { id:"ep015", title:'Episode 015｜文化近距离 | 从斯坦福志愿者看跨文化连接', date:"2025-10-24", duration:"51 min",
+    description:"本期嘉宾是斯坦福Bechtel International Center CCIS 社区的灵魂人物之一：志愿者 Brad。一期来听 Brad 娓娓道来，他是如何用一个小小的聚会小组，十年间串联起一张张平凡却闪光的人生拼图。",
+    audioUrl:"", externalLink:"https://open.spotify.com/episode/7vqTCZjvrCChHvCa7rMN6P?si=YW0fBCfWSbOmdodI_jKw0A", tags:["斯坦福","志愿者","跨文化"] },
   { id:"ep002", title:"Episode002 Finding Yourself Among Cultures (English))", date:"2025-08-01", duration:"35 min",
     description:"与来自白俄罗斯的 Kate 谈如何在硅谷求职，以及如何在不同的环境中寻找真实的自己。",
     audioUrl:"", externalLink:"https://podcasts.apple.com/us/podcast/episode002-finding-yourself-among-cultures-english/id1831182815?i=1000720682743", tags:["English","湾区求职","文化差异"] },
