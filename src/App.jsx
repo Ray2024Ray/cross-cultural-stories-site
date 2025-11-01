@@ -176,6 +176,19 @@ export default function PodcastSite() {
 function formatDate(iso) {
   try {
     const d = new Date(iso);
-    return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
-  } catch { return iso; }
+    return d.toLocaleDateString(undefined, {
+      year: "numeric", 
+      month: "short", 
+      day: "numeric",
+          });
+  } catch (e) { 
+          console.error(e);
+          return iso; }
+}
+
+           return (
+    <div>
+      <p>{formatDate("2025-10-30")}</p>
+    </div>
+  );
 }
